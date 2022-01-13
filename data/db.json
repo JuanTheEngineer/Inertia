@@ -1,0 +1,148 @@
+{
+  "plans": [
+    {
+      "steps": [
+        {
+          "exercises": [
+            {
+              "name": "Bench Press",
+              "reps": "5",
+              "sets": "4",
+              "demo": "/gif/FlatBenchPress.gif",
+              "note": "May add a drop set for 70%",
+              "id": 43
+            },
+            {
+              "name": "Shoulder Press",
+              "reps": "10",
+              "sets": "4",
+              "demo": "/gif/ShoulderPress.gif",
+              "note": "",
+              "id": 2
+            }
+          ],
+          "superset": true,
+          "id": 10
+        },
+        {
+          "exercises": [
+            {
+              "name": "Bench Press",
+              "reps": "5",
+              "sets": "4",
+              "demo": "/gif/FlatBenchPress.gif",
+              "note": "May add a drop set for 70%",
+              "id": 1
+            },
+            {
+              "name": "Shoulder Press",
+              "reps": "10",
+              "sets": "4",
+              "demo": "/gif/ShoulderPress.gif",
+              "note": "",
+              "id": 2
+            }
+          ],
+          "superset": true,
+          "id": 2
+        }
+      ],
+      "title": "Push Day A",
+      "author": "Juan",
+      "id": 3
+    },
+    {
+      "steps": [
+        {
+          "exercises": [
+            {
+              "name": "Bench Press",
+              "reps": "5",
+              "sets": "4",
+              "demo": "/gif/FlatBenchPress.gif",
+              "note": "May add a drop set for 70%",
+              "id": 1
+            },
+            {
+              "name": "Shoulder Press",
+              "reps": "10",
+              "sets": "4",
+              "demo": "/gif/ShoulderPress.gif",
+              "note": " ",
+              "id": 2
+            }
+          ],
+          "superset": true
+        },
+        {
+          "exercises": [
+            {
+              "name": "Bench Press",
+              "reps": "5",
+              "sets": "4",
+              "demo": "/gif/FlatBenchPress.gif",
+              "note": "May add a drop set for 70%",
+              "id": 1
+            },
+            {
+              "name": "Shoulder Press",
+              "reps": "10",
+              "sets": "4",
+              "demo": "/gif/ShoulderPress.gif",
+              "note": " ",
+              "id": 2
+            }
+          ],
+          "superset": true
+        }
+      ],
+      "title": "Push Day B",
+      "author": "Juan",
+      "id": 3
+    }
+  ],
+  "accounts": [
+    {
+      "username": "JuanR",
+      "password": "myla1234",
+      "firstName": "Juan",
+      "lastName": "Rodriguez",
+      "id": 1
+    },
+    {
+      "username": "ds",
+      "password": "sd",
+      "firstName": "ws",
+      "lastName": "s",
+      "id": 2
+    },
+    {
+      "username": "JR123",
+      "password": "Password",
+      "firstName": "Juan",
+      "lastName": "Rodriguez",
+      "id": 3
+    },
+    {
+      "username": "d",
+      "password": "d",
+      "firstName": "f",
+      "lastName": "d",
+      "id": 4
+    },
+    {
+      "username": "acd",
+      "password": "cad",
+      "firstName": "xcsdcasd",
+      "lastName": "cadc",
+      "id": 5
+    },
+    {
+      "username": "Bcreed96",
+      "password": "1234",
+      "firstName": "Brandon",
+      "lastName": "Creed",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+Sign in sheet
+Input restrictions
+Plan Details Page
+    Putting a gif on react
+    formatting
+    component for inputting
+Plans attributes
+    tags
+    day of the week
+gitignore and push
+
+
+
+ex.
+
+    Push day
+        step 1
+            exercises 1
+                bench press
+                    reps 5
+                    sets 4
+                shoulder press
+                    reps 10
+                    sets 4
+            superset T
+        step 2
+            exercises 2
+                Incline DB press
+                    reps 8
+                    sets 4
+                Skullcrushers
+                    reps 10
+                    sets 4
+            superset T
+
+
+
+
+Plans
+    title
+    workouts []
+        exercises []
+        superset T/F
+
+
+
