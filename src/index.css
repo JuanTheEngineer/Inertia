@@ -101,3 +101,32 @@
   cursor: pointer;
   min-width: 114px;
 }
+
+.description {
+  align-content: stretch;
+  text-align: center !important;
+  float: left;
+  padding: 2%;
+  width: 36%;
+}
+#divBlock {
+  width: 30%;
+  padding-top: 2%;
+  text-align: left;
+  font-size: x-large;
+}
+#divLabel {
+  width: 30%;
+  text-align: left;
+  font-size: small;
+}
+#divNote {
+  width: 100%;
+  text-align: left;
+  font-size: smaller;
+}
+img.examples {
+  padding: 2%;
+  width: 56%;
+  vertical-align: bottom;
+}
