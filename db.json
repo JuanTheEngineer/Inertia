@@ -1,0 +1,136 @@
+{
+  "plans": [
+    {
+      "steps": [
+        {
+          "exercises": [
+            {
+              "name": "No Money Drill",
+              "reps": "10",
+              "sets": "3",
+              "demo": "NoMoneyDrill.png",
+              "note": "Keep your elbows close to your body.",
+              "id": 1
+            },
+            {
+              "name": "Downward Dog Toe Touch",
+              "reps": "5",
+              "sets": "3",
+              "demo": "DownwardDogToeTouches.gif",
+              "note": "Alternate arms for one repetition.",
+              "id": 2
+            }
+          ],
+          "warmup": true,
+          "superset": false,
+          "id": 1
+        },
+        {
+          "exercises": [
+            {
+              "name": "Close Grip Pulldowns",
+              "reps": "12",
+              "sets": "4",
+              "demo": "CloseGripPulldowns.gif",
+              "note": "",
+              "id": 1
+            },
+            {
+              "name": "Cable Rows",
+              "reps": "12",
+              "sets": "4",
+              "demo": "CableRows.gif",
+              "note": "",
+              "id": 2
+            }
+          ],
+          "superset": true,
+          "id": 2
+        },
+        {
+          "exercises": [
+            {
+              "name": "Wide Grip Pulldowns",
+              "reps": "12",
+              "sets": "4",
+              "demo": "WideGripPulldowns.gif",
+              "note": "",
+              "id": 1
+            },
+            {
+              "name": "Bent-over Rows",
+              "reps": "12",
+              "sets": "4",
+              "demo": "BentoverRows.gif",
+              "note": "Can be done with Dumbbells.",
+              "id": 2
+            }
+          ],
+          "superset": true,
+          "id": 3
+        },
+        {
+          "exercises": [
+            {
+              "name": "Cable Lateral Pullovers",
+              "reps": "12",
+              "sets": "4",
+              "demo": "CableLateralPullovers.gif",
+              "note": "",
+              "id": 1
+            },
+            {
+              "name": "Zottman Curls",
+              "reps": "12",
+              "sets": "4",
+              "demo": "ZottmanCurls.gif",
+              "note": "",
+              "id": 2
+            }
+          ],
+          "superset": true,
+          "id": 4
+        },
+        {
+          "exercises": [
+            {
+              "name": "Shrugs",
+              "reps": "15",
+              "sets": "4",
+              "demo": "Shrugs.gif",
+              "note": "",
+              "id": 1
+            },
+            {
+              "name": "Crush Grip Curls",
+              "reps": "10",
+              "sets": "4",
+              "demo": "ZottmanCurls.gif",
+              "note": "For the last set, perform an Iso-hold for as long as possible.",
+              "id": 2
+            }
+          ],
+          "superset": true,
+          "id": 5
+        },
+        {
+          "exercises": [
+            {
+              "name": "Russian Twists",
+              "reps": "100",
+              "sets": "Varies",
+              "demo": "RussianTwists.gif",
+              "note": "The goal is to reach 100 repetitions in total.",
+              "id": 1
+            }
+          ],
+          "superset": false,
+          "id": 6
+        }
+      ],
+      "title": "Pull Day A",
+      "author": "Juan",
+      "id": "pull_day-A"
+    }
+  ]
+}

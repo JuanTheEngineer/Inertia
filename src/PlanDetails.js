@@ -1,10 +1,12 @@
 import { useParams } from "react-router-dom";
 import useFetch from "./useFetch";
+import Image from "./Image"
+
 
 const PlanDetails = () => {
 
     const { id } = useParams();
-    const { data: plan, error, isPending } = useFetch('http://localhost:8000/plans/' + id);
+    const { data: plan, error, isPending } = useFetch('http://localhost:5000/plans/' + id);
 
     return ( 
         <div className="plan-details">
@@ -21,9 +23,10 @@ const PlanDetails = () => {
                     <h2>{ plan && plan.exercises.map(step => (
                             <div className="plan-preview" key={ step.id }>
                                 <h2>{ step.name } </h2>
+                                <img src={require(`./assests/${ step.demo }`).default} height={200}/>
                                 <p>{ step.reps } REPS</p> 
                                 <p>{ step.sets } SETS</p> 
-                                <p>{ step.note }</p>                   
+                                <p>{ step.note && <p>Note: { step.note }</p>}</p>                   
                             </div>
                         )) }
                     </h2>                    

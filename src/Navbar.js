@@ -6,7 +6,6 @@ const Navbar = () => {
             <h1>Inertia</h1>
             <div className="links">
                 <Link to="/">Home</Link>
-                <Link to="/signup">Sign in</Link>
             </div>
         </nav>
      );
