@@ -3,7 +3,7 @@ import useFetch from './useFetch';
 
 const Home = () => {
 
-    const { data: plans, isLoading, error } = useFetch('http://localhost:5000/plans');
+    const { data: plans, isLoading, error } = useFetch('https://inertia-workouts.herokuapp.com/plans/');
 
     return ( 
         <div className="home">

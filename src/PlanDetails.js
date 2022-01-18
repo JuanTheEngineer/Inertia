@@ -7,7 +7,7 @@ import Image from "./Image"
 const PlanDetails = () => {
 
     const { id } = useParams();
-    const { data: plan, error, isPending } = useFetch('http://localhost:5000/plans/' + id);
+    const { data: plan, error, isPending } = useFetch("https://inertia-workouts.herokuapp.com/plans/" + id);
 
     return ( 
         <div className="plan-details">
